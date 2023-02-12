@@ -1,6 +1,6 @@
 body{
   color: black;
-  font-family:  'Lucida Console', monospace;
+  font-family:  'Lucida Console', monospace
 }
 
 .maincontainer{
@@ -10,6 +10,8 @@ body{
   align-items: left;
   width: 650px;
   margin: auto;
+  font-size: clamp(16px, 3vw, 22px);
+  
 }
 
 .description{
