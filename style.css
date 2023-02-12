@@ -1,10 +1,6 @@
     body{
       color: black;
-      font-family:  'Lucida Console', monospace}
-    .container{
-      text-align: justify;
-      font-size: clamp(16px, 3vw, 22px);
-      width: min(80%,600px);
-      margin:auto;
-    }
+      font-family:  'Lucida Console', monospace;
+      }
+    
   
