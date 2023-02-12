@@ -1,0 +1,74 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+
+    header
+      {
+        color: #800020;
+        background-color: gold;
+        font-size: 22px;
+        text-align: center;
+      }
+    body
+      {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: beige;
+      }
+    
+    text
+      {
+      font-size: 10px;
+    }
+
+    h3
+      {
+    font-size: 1.5em;
+    margin: 8px;
+    padding: 8px;
+    position: relative; left: 300px;
+    }
+
+    .red 
+      {
+        color: red;
+      }
+
+      .picture
+      {
+      width: 400px;
+      height: auto;
+      }
+
+      div > img 
+        {
+        width: auto;
+        height : auto;
+        max-height: 100%;
+        max-width: 100%;
+        }
+
+     .logo
+      {
+      width: 200px;
+      height: auto;
+      float: right;
+      }
+
+      .border1 
+      {
+        border-style: solid;
+        border-block-color: pink;
+      }
+      .border2
+      {
+        border-style: dotted;
+      }
+      .border3
+      {
+        border-style: dashed;
+        border-color: green;
+      }
+      .border4
+      {
+        border-style: solid;
+        border-color: blue;
+        border-right-width: 150px;
+      }
