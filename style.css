@@ -1,6 +1,29 @@
-    body{
-      color: black;
-      font-family:  'Lucida Console', monospace;
-      }
+body{
+  color: black;
+  font-family:  'Lucida Console', monospace;
+}
+
+.maincontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  width: 650px;
+  margin: auto;
+}
+
+.description{
+  
+}
+
+
+.flexcontainer{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
     
   
